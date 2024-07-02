@@ -44,3 +44,4 @@ title: Integrantes
 | **Larissa Alves da Silva** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-0563-8172) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/5714545457389700) | Mestranda PPGCI ECA-USP | Universidade de São Paulo |
 | **Márcia Barcelos Gomes Silvares** | Mestrado  | UFRJ - PPGCI/IBICT |
 | **Marcos Luiz Barreto Gomes** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-71603886) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/5698334230284416) | Mestrado PPGCI IBICT | Arquivo Nacional |
+| **William Lima Rocha** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-6834-0026) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/0712428508406106) | Mestrado | UFRJ - PPGCI/IBICT |
