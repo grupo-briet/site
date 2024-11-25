@@ -7,7 +7,7 @@ title: Divulgação Científica
 ## Série Acrônimo BRIET
 
 _Escrito por:_
-_**Larissa Alves** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-0563-8172) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/5714545457389700)_e _**Kelly Ayala** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-7502-120X) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/4756129390559988)_
+_**Larissa Alves** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-0563-8172) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/5714545457389700)_ e _**Kelly Ayala** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-7502-120X) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/4756129390559988)_
 
 A proposta da série _**Acrônimo BRIET**_ é podermos compreender melhor a sigla que dá nome ao nosso grupo de pesquisa, e é inspirada no sobrenome de Suzanne Briet. 
 Cada letra em 'BRIET' representa a inicial de termos específicos (Biblioteconomia, Representação, Interoperabilidade, eScience e Tecnologia), sendo, portanto, a sigla BRIET como um todo, o acrônimo.
